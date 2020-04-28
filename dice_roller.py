@@ -8,6 +8,7 @@ def main():
     dice_sum += roll
     print('You rolled a die')
     print(f'Your rolled a {roll}')
+
 print(f'You have rolled a total of {dice_sum}')
 
 
